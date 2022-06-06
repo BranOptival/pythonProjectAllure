@@ -14,3 +14,5 @@ class TestClass:
     def test_3(self):
         x = "this"
         assert "h" in x
+
+print("Hi")
